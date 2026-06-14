@@ -1,0 +1,3 @@
+ultralytics
+owlready2
+opencv-python
